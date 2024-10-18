@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeNav"
+        android:title="hell"
+        android:icon="@drawable/homeicon2" />
+    <item
+        android:id="@+id/userNav"
+        android:title="dell"
+        android:icon="@drawable/user2"/>
+    <item
+        android:id="@+id/settingNav"
+        android:title="kell"
+        android:icon="@drawable/settingsicon2"/>
+</menu>
