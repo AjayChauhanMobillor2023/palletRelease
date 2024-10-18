@@ -16,4 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "PalletRelease"
 include(":app")
 include(":pallet_release_library")
-include(":Pallet")
+include(":PalletReleaseLibrary")

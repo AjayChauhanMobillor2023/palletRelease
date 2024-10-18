@@ -3,8 +3,6 @@ package com.example.palletrelease.activities
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.compose.ui.graphics.Color
-import com.example.pallet_release_lib.actitivties.FirstActivityPalletReleaseLibrary
 import com.example.pallet_release_lib.actitivties.FirstComposeActivityPalletRelease
 import com.example.palletrelease.databinding.ActivityMainBinding
 
